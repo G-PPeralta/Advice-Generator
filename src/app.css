@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #202632;
+  font-family: 'Manrope', sans-serif;
+  color: #fff;
+}
+
+.card-container {
+  background-color: #313a49;
+  padding: 20px;
+  height: 300px;
+  width: 500px;
+  margin: 25vh auto;
+  border-radius: 12px;
+  position: relative;
+}
+
+.advice {
+  text-align: center;
+  letter-spacing: 0.1rem;
+  padding: 5px;
+  margin-bottom: 35px;
+}
+
+.advice-number {
+  color: #53ffa9;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dice-btn {
+  background-color: #53ffa9;
+  padding: 15px;
+  position: absolute;
+  right: 230px;
+  bottom: 0;
+  border: none;
+  border-radius: 50%;
+  transform: translateY(50%);
+}
+
+.dice-btn:hover {
+  box-shadow: 0 0 3rem hsla(150, 100%, 66%, 0.75);
+}
