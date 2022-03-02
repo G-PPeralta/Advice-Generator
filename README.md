@@ -61,7 +61,7 @@ function useFetch(url: string) {
 
 ### Continued development
 
-I realized that I need to keep practicing CSS. I'm still not confortable with my skills, I need to improve concepts like responsive web design. I also used this project as an opotunitie to use Typescript, wich is something that I'm just getting started with.
+I realized that I need to keep practicing CSS. I'm still not confortable with my skills, I need to improve concepts like responsive web design. I also used this project as an opportunity to use Typescript, which is something that I'm just getting started with.
 
 
 ## Author
