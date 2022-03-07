@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-advice-generator.png)
+![](./src/images/screenshot-advice-generator.png)
 
 ### Links
 
