@@ -1,5 +1,6 @@
 {
   "home": "https://g-pperalta.github.io/Advice-Generator/",
+  "homepage": ".",
   "name": "advice-generator",
   "private": true,
   "version": "0.0.0",
